@@ -1,0 +1,4 @@
+https://kamil-deployment-of-edgehill-durning.onrender.com/
+
+
+To rigorously assess the BiLSTM-Informer model’s generalization performance, we utilized data from January to August 2023 a dataset not included in training or testing (which covered January 2018 to December 2022). This validation phase was crucial in understanding how well the model performed when predicting future PV generation in real-world scenarios as detailed in Figure 37.  Validation was conducted by selecting random time frames from different seasons, ensuring a diverse evaluati
