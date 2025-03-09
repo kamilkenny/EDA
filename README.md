@@ -4,14 +4,16 @@ TOPIC - An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model o
 
 DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT.
 
-Deployed Model Access at:
-https://kamil-deployment-of-edgehill-durning.onrender.com/
+
 
 
 ![DURNING CENTRE PV SYSTEM](https://github.com/user-attachments/assets/c989c366-7e39-48ad-80de-69458a70d345)
 
 
 ![experiment set up](https://github.com/user-attachments/assets/cf63099d-8068-4290-afc6-2093bd418bf0)
+
 ![PRIMARY ENERGY DATA ACQUISITION](https://github.com/user-attachments/assets/efa138cb-e97c-4ba4-9c7e-62b2a42ebd3b)
-![PRIMARY ENERGY DATA ACQUISITION](https://github.com/user-attachments/assets/add42e4a-a1a1-4adc-aa2a-299c28e957a6)
-![experiment set up](https://github.com/user-attachments/assets/2d8c1358-5987-4932-8291-5f16c1bea3f9)
+
+
+Deployed Model Access at:
+https://kamil-deployment-of-edgehill-durning.onrender.com/
