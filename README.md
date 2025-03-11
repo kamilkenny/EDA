@@ -16,13 +16,18 @@ DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY PHOTOVOLTAIC SYSTEM HISTORICAL GENE
 
 
 
-![experiment set up](https://github.com/user-attachments/assets/cf63099d-8068-4290-afc6-2093bd418bf0)
+![experiment set up](https://github.com/user-attachments/assets/4bc2c76a-1c16-4e36-9774-2c785ce3d59c)
+
+
 
 
 ![models](https://github.com/user-attachments/assets/fbb10d72-e27c-47aa-b40e-3f769f1cd16e)
 
 
+
+
 ![metrics](https://github.com/user-attachments/assets/f57e575a-be7e-4a7c-8da6-fa11716f20d9)
+
 
 
 Deployed Model Access at:
