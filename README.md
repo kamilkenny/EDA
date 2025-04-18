@@ -10,6 +10,7 @@ DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY PHOTOVOLTAIC SYSTEM HISTORICAL GENE
                             ![DURNING CENTRE PV SYSTEM](https://github.com/user-attachments/assets/c989c366-7e39-48ad-80de-69458a70d345)
 
 
+![Picture1](https://github.com/user-attachments/assets/9ae25282-1afc-4621-957c-9f01b7341e83)
 
 
 ![PRIMARY ENERGY DATA ACQUISITION](https://github.com/user-attachments/assets/efa138cb-e97c-4ba4-9c7e-62b2a42ebd3b)
@@ -24,6 +25,7 @@ DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY PHOTOVOLTAIC SYSTEM HISTORICAL GENE
 ![models](https://github.com/user-attachments/assets/fbb10d72-e27c-47aa-b40e-3f769f1cd16e)
 
 
+![Picture Abstract ](https://github.com/user-attachments/assets/3fe9e151-354f-4fa0-a6b6-40009dd67f4b)
 
 
 ![metrics](https://github.com/user-attachments/assets/f57e575a-be7e-4a7c-8da6-fa11716f20d9)
