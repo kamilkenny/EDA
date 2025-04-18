@@ -29,7 +29,8 @@ DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY PHOTOVOLTAIC SYSTEM HISTORICAL GENE
 
 ![scatterd plot all result](https://github.com/user-attachments/assets/89524b37-6fd2-4d5d-b93d-2400cf32de33)
 
-![lstm gru bi lstm](https://github.com/user-attachments/assets/b5ebb474-540b-4e5f-8514-82c78ac3d84b)
+![lstm gru bi lstm](https://github.com/user-attachments/assets/b01e51ea-1221-499b-8157-1bfa216e5707)
+
 
 
 Deployed Model Access at:
