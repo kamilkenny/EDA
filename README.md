@@ -5,7 +5,7 @@ TOPIC - An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model o
 DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT.
 
 
-
+Real-Time Web Inferencing of a BiLSTM-Informer Hybrid Model with Autoregressive Features Optimization for Improved Photovoltaic Power Output Forecasting 
 
                             ![DURNING CENTRE PV SYSTEM](https://github.com/user-attachments/assets/c989c366-7e39-48ad-80de-69458a70d345)
 
@@ -31,6 +31,10 @@ DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY PHOTOVOLTAIC SYSTEM HISTORICAL GENE
 
 ![lstm gru bi lstm](https://github.com/user-attachments/assets/b01e51ea-1221-499b-8157-1bfa216e5707)
 
+![Plot for hourly 1](https://github.com/user-attachments/assets/f4161f43-cc55-4f26-9d42-bdca40d0eafe)
+![Plot for Daily 2](https://github.com/user-attachments/assets/e09bddf2-9428-4a58-bcb0-401e3bce6793)
+![Plot for weekly 3](https://github.com/user-attachments/assets/e07c7aa5-f5a9-4173-8776-ca9206ac049a)
+![Plot for monthly](https://github.com/user-attachments/assets/6aa28965-8b43-4cc2-99a5-d945e162bd2f)
 
 
 Deployed Model Access at:
