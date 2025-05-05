@@ -1,4 +1,4 @@
-# Renewable Energy Resources Generation Forecasting Using Deep Learning Algorithms for Enhanced Performance of the Energy Management System
+# RENEWABLE ENERGY RESOURCES GENERATION FORECASTING USING DEEP LEARNING ALGORITHMS FOR ENHANCED PERFORMANCE OF THE ENERGY MANAGEMENT SYSTEM
 
 TOPIC - An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model of Bi-LSTM and Informer with Autoregressive Features Optimization
 
@@ -32,7 +32,7 @@ Real-Time Web Inferencing of a BiLSTM-Informer Hybrid Model with Autoregressive 
 ![lstm gru bi lstm](https://github.com/user-attachments/assets/b01e51ea-1221-499b-8157-1bfa216e5707)
 
 
-# OFFLINE MODEL INFRENCING ACCURACY ANALYSIS FOR SHORT MEDIUM AND LONG TERM PV FORECASTING USING THE PROPOSED MODEL 
+# OFFLINE MODEL INFRENCING ACCURACY ANALYSIS FOR SHORT, MEDIUM AND LONG TERM PV FORECASTING USING THE PROPOSED MODEL 
 ![Plot for hourly 1](https://github.com/user-attachments/assets/f4161f43-cc55-4f26-9d42-bdca40d0eafe)
 ![Plot for Daily 2](https://github.com/user-attachments/assets/e09bddf2-9428-4a58-bcb0-401e3bce6793)
 ![Plot for weekly 3](https://github.com/user-attachments/assets/e07c7aa5-f5a9-4173-8776-ca9206ac049a)
