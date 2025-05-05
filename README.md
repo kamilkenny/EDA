@@ -22,7 +22,7 @@ Real-Time Web Inferencing of a BiLSTM-Informer Hybrid Model with Autoregressive 
 ![models](https://github.com/user-attachments/assets/fbb10d72-e27c-47aa-b40e-3f769f1cd16e)
 
 
-![Picture Abstract ](https://github.com/user-attachments/assets/03becc95-0514-4413-9194-4b293c76c6db)
+
 
 
 
