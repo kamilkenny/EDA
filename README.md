@@ -36,7 +36,7 @@ Real-Time Web Inferencing of a BiLSTM-Informer Hybrid Model with Autoregressive 
 
 # OFFLINE MODEL INFRENCING ACCURACY ANALYSIS FOR SHORT, MEDIUM AND LONG TERM PV FORECASTING USING THE PROPOSED MODEL 
 
-# Deployed Model Access at:
+# Deployed Model Accessible at:
 https://kamil-deployment-of-edgehill-durning.onrender.com/
 
 ![Plot for hourly 1](https://github.com/user-attachments/assets/f4161f43-cc55-4f26-9d42-bdca40d0eafe)
