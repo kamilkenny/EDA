@@ -14,12 +14,12 @@ Real-Time Web Inferencing of a BiLSTM-Informer Hybrid Model with Autoregressive 
 
 ![PRIMARY ENERGY DATA ACQUISITION](https://github.com/user-attachments/assets/efa138cb-e97c-4ba4-9c7e-62b2a42ebd3b)
 
-
+# MODEL ARCHITECTURE 
 
 ![experiment set up](https://github.com/user-attachments/assets/4bc2c76a-1c16-4e36-9774-2c785ce3d59c)
 
 
-
+# RESULTS
 
 ![models](https://github.com/user-attachments/assets/fbb10d72-e27c-47aa-b40e-3f769f1cd16e)
 
