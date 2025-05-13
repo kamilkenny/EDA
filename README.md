@@ -25,6 +25,9 @@ Real-Time Web Inferencing of a BiLSTM-Informer Hybrid Model with Autoregressive 
 
 ![experiment set up](https://github.com/user-attachments/assets/4bc2c76a-1c16-4e36-9774-2c785ce3d59c)
 
+![Fig  8](https://github.com/user-attachments/assets/d0feaf56-8530-498d-bbcc-a06e52b7e35a)
+
+
 
 # RESULTS
 
@@ -38,6 +41,9 @@ Real-Time Web Inferencing of a BiLSTM-Informer Hybrid Model with Autoregressive 
 
 ![scatterd plot all result](https://github.com/user-attachments/assets/89524b37-6fd2-4d5d-b93d-2400cf32de33)
 
+![Fig   14](https://github.com/user-attachments/assets/e44ae629-2280-492e-bf43-c4f928d91fd5)
+
+
 ![lstm gru bi lstm](https://github.com/user-attachments/assets/b01e51ea-1221-499b-8157-1bfa216e5707)
 
 
@@ -49,7 +55,8 @@ https://kamil-deployment-of-edgehill-durning.onrender.com/
 ![Plot for hourly 1](https://github.com/user-attachments/assets/f4161f43-cc55-4f26-9d42-bdca40d0eafe)
 ![Plot for Daily 2](https://github.com/user-attachments/assets/e09bddf2-9428-4a58-bcb0-401e3bce6793)
 ![Plot for weekly 3](https://github.com/user-attachments/assets/e07c7aa5-f5a9-4173-8776-ca9206ac049a)
-![Plot for monthly](https://github.com/user-attachments/assets/6aa28965-8b43-4cc2-99a5-d945e162bd2f)
+ ![Fig  16](https://github.com/user-attachments/assets/0c439676-dc1e-43c1-a410-aa9c15800298)
+
 
 
 
