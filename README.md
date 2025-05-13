@@ -1,6 +1,7 @@
 # RENEWABLE ENERGY RESOURCES GENERATION FORECASTING USING DEEP LEARNING ALGORITHMS FOR ENHANCED PERFORMANCE OF THE ENERGY MANAGEMENT SYSTEM
 
-![full view durining centre](https://github.com/user-attachments/assets/67323c97-bae2-47d3-b794-42e0527f7067)
+
+![full view durining centre](https://github.com/user-attachments/assets/51ced1c1-6352-4286-976f-2b7d32952c42)
 
 
 
