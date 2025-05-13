@@ -6,6 +6,7 @@ DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY 39.02 kWp PHOTOVOLTAIC SYSTEM HISTO
 
 
 TOPIC - An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model of Bi-LSTM and Informer with Autoregressive Features Optimization.
+
 HIGHLIGHT - To ensure an efficient Photovoltaic (PV) renewable energy grid, it is essential to address the uncertainty inherent in power systems. An efficient energy management system must be capable of prioritising energy distribution based on an applicable and effective real-time forecasting of generation output of the PV system. This study proposes a novel BiLSTM-Informer hybrid model that outperforms conventional machine learning and deep learning models in forecasting multi-step PV output. This work integrates real-time web inferencing using a Streamlit interface on Orender, validating the model’s robustness under live deployment. Accuracy ranged from 89% to 97.3% across various forecasting horizons, positioning the BiLSTM-Informer as a novel benchmark for real-time PV forecasting and intelligent grid management. 
 
 
@@ -13,7 +14,9 @@ HIGHLIGHT - To ensure an efficient Photovoltaic (PV) renewable energy grid, it i
 
 Real-Time Web Inferencing of a BiLSTM-Informer Hybrid Model with Autoregressive Features Optimization for Improved Photovoltaic Power Output Forecasting 
 
-                            ![DURNING CENTRE PV SYSTEM](https://github.com/user-attachments/assets/c989c366-7e39-48ad-80de-69458a70d345)
+                           
+
+                          
 # OVERVIEW
 
 ![PRIMARY ENERGY DATA ACQUISITION](https://github.com/user-attachments/assets/efa138cb-e97c-4ba4-9c7e-62b2a42ebd3b)
