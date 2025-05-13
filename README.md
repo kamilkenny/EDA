@@ -1,7 +1,7 @@
 # RENEWABLE ENERGY RESOURCES GENERATION FORECASTING USING DEEP LEARNING ALGORITHMS FOR ENHANCED PERFORMANCE OF THE ENERGY MANAGEMENT SYSTEM
 
+![full view durining centre](https://github.com/user-attachments/assets/67323c97-bae2-47d3-b794-42e0527f7067)
 
-![Uploading full view durining centre.png…]()
 
 
 TOPIC - An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model of Bi-LSTM and Informer with Autoregressive Features Optimization.
