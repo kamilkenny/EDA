@@ -55,7 +55,10 @@ https://kamil-deployment-of-edgehill-durning.onrender.com/
 ![Plot for hourly 1](https://github.com/user-attachments/assets/f4161f43-cc55-4f26-9d42-bdca40d0eafe)
 ![Plot for Daily 2](https://github.com/user-attachments/assets/e09bddf2-9428-4a58-bcb0-401e3bce6793)
 ![Plot for weekly 3](https://github.com/user-attachments/assets/e07c7aa5-f5a9-4173-8776-ca9206ac049a)
- ![Fig  16](https://github.com/user-attachments/assets/0c439676-dc1e-43c1-a410-aa9c15800298)
+![Plot for monthly 4](https://github.com/user-attachments/assets/30aab44b-b8d1-4c3c-be3f-b72416d39a2c)
+
+
+![Fig  16](https://github.com/user-attachments/assets/0c439676-dc1e-43c1-a410-aa9c15800298)
 
 
 
