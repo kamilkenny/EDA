@@ -11,8 +11,7 @@ HIGHLIGHT - To ensure an efficient Photovoltaic (PV) renewable energy grid, it i
 
 
 
-
-Real-Time Web Inferencing of a BiLSTM-Informer Hybrid Model with Autoregressive Features Optimization for Improved Photovoltaic Power Output Forecasting 
+REAL-TIME WEB INFERENCING OF A BILSTM-INFORMER HYBRID MODEL WITH AUTOREGRESSIVE FEATURES OPTIMIZATION FOR IMPROVED PHOTOVOLTAIC POWER OUTPUT FORECASTING
 
                            
 
