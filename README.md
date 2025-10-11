@@ -65,6 +65,11 @@ https://kamil-deployment-of-edgehill-durning.onrender.com/
 
 ![Fig  16](https://github.com/user-attachments/assets/0c439676-dc1e-43c1-a410-aa9c15800298)
 
+<img width="1250" height="700" alt="GRU -LSTM" src="https://github.com/user-attachments/assets/dc86fad3-c0a0-4e39-b202-d97272551c47" />
+
+
+
+
 
 
 
