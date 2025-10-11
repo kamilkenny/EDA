@@ -51,6 +51,18 @@ REAL-TIME WEB INFERENCING OF A BILSTM-INFORMER HYBRID MODEL WITH AUTOREGRESSIVE 
 ![lstm gru bi lstm](https://github.com/user-attachments/assets/b01e51ea-1221-499b-8157-1bfa216e5707)
 
 
+# HYBRID MODEL ONLY ACTUAL VS PREDICTED TEST RESULTS COMPARISON 
+<img width="1250" height="700" alt="GRU -LSTM" src="https://github.com/user-attachments/assets/dc86fad3-c0a0-4e39-b202-d97272551c47" />
+
+<img width="1250" height="700" alt="CNN-LSTM" src="https://github.com/user-attachments/assets/d9b94824-921b-4be6-8e7d-988fd13766e4" />
+
+
+<img width="1300" height="720" alt="COMBINE (ACTUAL, LSTM GRU CNN)" src="https://github.com/user-attachments/assets/0fbb7816-57e4-4952-9048-0eebec20db6c" />
+
+
+
+
+
 
 # OFFLINE MODEL INFRENCING ACCURACY ANALYSIS FOR SHORT, MEDIUM AND LONG TERM PV FORECASTING USING THE PROPOSED MODEL 
 
@@ -64,13 +76,6 @@ https://kamil-deployment-of-edgehill-durning.onrender.com/
 
 
 ![Fig  16](https://github.com/user-attachments/assets/0c439676-dc1e-43c1-a410-aa9c15800298)
-
-<img width="1250" height="700" alt="GRU -LSTM" src="https://github.com/user-attachments/assets/dc86fad3-c0a0-4e39-b202-d97272551c47" />
-
-<img width="1250" height="700" alt="CNN-LSTM" src="https://github.com/user-attachments/assets/d9b94824-921b-4be6-8e7d-988fd13766e4" />
-
-
-<img width="1300" height="720" alt="COMBINE (ACTUAL, LSTM GRU CNN)" src="https://github.com/user-attachments/assets/0fbb7816-57e4-4952-9048-0eebec20db6c" />
 
 
 
