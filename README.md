@@ -20,6 +20,9 @@ REAL-TIME WEB INFERENCING OF A BILSTM-INFORMER HYBRID MODEL WITH AUTOREGRESSIVE 
 
 ![PRIMARY ENERGY DATA ACQUISITION](https://github.com/user-attachments/assets/efa138cb-e97c-4ba4-9c7e-62b2a42ebd3b)
 
+<img width="1200" height="800" alt="coreelation analysis matrix" src="https://github.com/user-attachments/assets/998a6665-da29-4da4-ba91-40492c568385" />
+
+
 # MODEL ARCHITECTURE 
 
 ![experiment set up](https://github.com/user-attachments/assets/4bc2c76a-1c16-4e36-9774-2c785ce3d59c)
