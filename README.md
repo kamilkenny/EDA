@@ -80,6 +80,8 @@ https://kamil-deployment-of-edgehill-durning.onrender.com/
 
 ![Fig  16](https://github.com/user-attachments/assets/0c439676-dc1e-43c1-a410-aa9c15800298)
 
+<img width="784" height="484" alt="Fig  11" src="https://github.com/user-attachments/assets/5ca95bc8-107c-44cc-86da-3c04e89a1022" />
+
 
 
 
