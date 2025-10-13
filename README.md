@@ -71,6 +71,7 @@ REAL-TIME WEB INFERENCING OF A BILSTM-INFORMER HYBRID MODEL WITH AUTOREGRESSIVE 
 
 # Deployed Model Accessible at:
 https://kamil-deployment-of-edgehill-durning.onrender.com/
+                                   <img width="784" height="484" alt="Fig  11" src="https://github.com/user-attachments/assets/94cd330d-abb9-4582-9ba0-458bdbe40e8f" />
 
 ![Plot for hourly 1](https://github.com/user-attachments/assets/f4161f43-cc55-4f26-9d42-bdca40d0eafe)
 ![Plot for Daily 2](https://github.com/user-attachments/assets/e09bddf2-9428-4a58-bcb0-401e3bce6793)
@@ -80,7 +81,7 @@ https://kamil-deployment-of-edgehill-durning.onrender.com/
 
 ![Fig  16](https://github.com/user-attachments/assets/0c439676-dc1e-43c1-a410-aa9c15800298)
 
-<img width="784" height="484" alt="Fig  11" src="https://github.com/user-attachments/assets/5ca95bc8-107c-44cc-86da-3c04e89a1022" />
+
 
 
 
