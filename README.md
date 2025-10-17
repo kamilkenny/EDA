@@ -23,7 +23,7 @@ REAL-TIME WEB INFERENCING OF A BILSTM-INFORMER HYBRID MODEL WITH AUTOREGRESSIVE 
 <img width="1200" height="800" alt="coreelation analysis matrix" src="https://github.com/user-attachments/assets/998a6665-da29-4da4-ba91-40492c568385" />
 
 
-# MODEL ARCHITECTURE 
+# DEEP LEARNING/ATTENTION MECHANISM MODEL ARCHITECTURE 
 
 ![experiment set up](https://github.com/user-attachments/assets/4bc2c76a-1c16-4e36-9774-2c785ce3d59c)
 
