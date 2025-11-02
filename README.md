@@ -1,4 +1,6 @@
-# RENEWABLE ENERGY RESOURCES GENERATION FORECASTING USING DEEP LEARNING ALGORITHMS FOR ENHANCED PERFORMANCE OF THE ENERGY MANAGEMENT SYSTEM
+
+
+# High Fidelity Bi-LSTM/Informer Framework for Photovoltaic Generation Forecasting to Enhance Energy Use Planning
 
 
 ![full view durining centre](https://github.com/user-attachments/assets/51ced1c1-6352-4286-976f-2b7d32952c42)
