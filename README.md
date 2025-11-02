@@ -1,6 +1,6 @@
 
 
-# High Fidelity Bi-LSTM/Informer Framework for Photovoltaic Generation Forecasting to Enhance Energy Use Planning
+# HIGH FIDELITY BI-LSTM/INFORMER FRAMEWORK FOR PHOTOVOLTAIC GENERATION FORECASTING TO ENHANCE ENERGY USE PLANNING
 
 
 ![full view durining centre](https://github.com/user-attachments/assets/51ced1c1-6352-4286-976f-2b7d32952c42)
