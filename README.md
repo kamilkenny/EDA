@@ -64,8 +64,11 @@ REAL-TIME WEB INFERENCING OF A BILSTM-INFORMER HYBRID MODEL WITH AUTOREGRESSIVE 
 
 <img width="1300" height="720" alt="COMBINE (ACTUAL, LSTM GRU CNN)" src="https://github.com/user-attachments/assets/0fbb7816-57e4-4952-9048-0eebec20db6c" />
 
+<img width="650" height="309" alt="Fig  12" src="https://github.com/user-attachments/assets/7f0ee1f1-475d-45a2-9ffb-94e91501ff46" />
 
+<img width="650" height="268" alt="Fig  13" src="https://github.com/user-attachments/assets/a6d7d752-06da-444a-bf6c-eb7f81922c3e" />
 
+<img width="650" height="257" alt="Fig  15" src="https://github.com/user-attachments/assets/2a0c92a1-854c-45b5-9691-493a467dfdba" />
 
 
 
