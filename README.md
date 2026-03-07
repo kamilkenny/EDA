@@ -14,13 +14,14 @@ DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY 39.02 kWp PHOTOVOLTAIC SYSTEM HISTO
 
 # Python Modelling of a Comprehensive Exploratory Data Analysis (EDA) providing critical insight and context into five years of historical hourly captured system generation output is available at this link:
 **https://github.com/kamilkenny/EDA/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20(EDA)%20OF%20DURNING%20CENTRE%2C%20EDGE%20HILL%20UNIVERSITY%20PHOTOVOLTAIC%20SYSTEM%20HISTORICAL%20GENERATION%20OUTPUT..ipynb**
+
 **High-frequency "Big Data" processing was done to uncover the trends and correlations essential for grid management. The analysis includes rolling demand trends, carbon intensity profiling, features engineering and a multivariate correlation study of generation sources and covariate secondary features.**
 
 
 
 
  
- # An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model of Bi-LSTM and Informer with Autoregressive Features Optimization.**
+ # An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model of Bi-LSTM and Informer with Autoregressive Features Optimization.
 
 HIGHLIGHT - To ensure an efficient energy grid, it is essential to address the uncertainty inherent in power systems. An efficient energy management system must be capable of prioritising energy distribution based on an applicable and effective real-time forecasting of generation output of the PV system. This study proposes a novel BiLSTM-Informer hybrid model that outperforms conventional machine learning and deep learning models in forecasting multi-step PV output. This work integrates real-time web inferencing using a Streamlit interface on Orender, validating the model’s robustness under live deployment. Accuracy ranged from 89% to 97.3% across various forecasting horizons, positioning the BiLSTM-Informer as a novel benchmark for real-time PV forecasting and intelligent grid management. 
 
