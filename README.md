@@ -13,9 +13,9 @@ DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY 39.02 kWp PHOTOVOLTAIC SYSTEM HISTO
 # A Comprehensive Exploratory Data Analysis (EDA) providing critical insight and context into five years of historical, hourly system generation output.
 
 # A Comprehensive Exploratory Data Analysis (EDA) providing critical insight and context into five years of historical, hourly system generation output is available at this link:
-High-frequency "Big Data" processing was done to uncover the trends and correlations essential for grid management. The analysis includes rolling demand trends, carbon intensity profiling, features engineering and a multivariate correlation study of generation sources and covariate secondary features.
+**High-frequency "Big Data" processing was done to uncover the trends and correlations essential for grid management. The analysis includes rolling demand trends, carbon intensity profiling, features engineering and a multivariate correlation study of generation sources and covariate secondary features.**
 
-https://github.com/kamilkenny/EDA/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20(EDA)%20OF%20DURNING%20CENTRE%2C%20EDGE%20HILL%20UNIVERSITY%20PHOTOVOLTAIC%20SYSTEM%20HISTORICAL%20GENERATION%20OUTPUT..ipynb
+**https://github.com/kamilkenny/EDA/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20(EDA)%20OF%20DURNING%20CENTRE%2C%20EDGE%20HILL%20UNIVERSITY%20PHOTOVOLTAIC%20SYSTEM%20HISTORICAL%20GENERATION%20OUTPUT..ipynb**
 
 TOPIC - **An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model of Bi-LSTM and Informer with Autoregressive Features Optimization.**
 
