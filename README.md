@@ -10,7 +10,7 @@ DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY 39.02 kWp PHOTOVOLTAIC SYSTEM HISTO
 
 # The Data Analytics and Developed Energy Forecasting System deployed at: https://kamil-deployment-of-edgehill-durning.onrender.com/
 
-# A Comprehensive Exploratory Data Analysis (EDA) providing critical insight and context into five years of historical, hourly system generation output.
+
 
 # Python Modelling of a Comprehensive Exploratory Data Analysis (EDA) providing critical insight and context into five years of historical hourly captured system generation output is available at this link:
 **https://github.com/kamilkenny/EDA/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20(EDA)%20OF%20DURNING%20CENTRE%2C%20EDGE%20HILL%20UNIVERSITY%20PHOTOVOLTAIC%20SYSTEM%20HISTORICAL%20GENERATION%20OUTPUT..ipynb**
