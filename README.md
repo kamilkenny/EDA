@@ -21,7 +21,12 @@ DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 k
 # meteor
 **High-frequency "Big Data" processing was done to uncover the trends and correlations essential for grid management. The analysis includes rolling demand trends, carbon intensity profiling, features engineering and a multivariate correlation study of generation sources and covariate secondary features.**
 
-# Critical Meteorological Data (1. All sky solar irradiance  (kW/m2) 2. Temperature in degree  3. precipitation in (mm)    4. Wind speed at 10 meters in m/s  5. Wind direction at 10 meters in degree ) QGIS was ingested using QGIS to improve modelling system performance.
+# Critical Meteorological Data 
+1. All sky solar irradiance  (kW/m2) 
+2. Temperature in degree  
+3. precipitation in (mm)    
+4. Wind speed at 10 meters in m/s  
+5. Wind direction at 10 meters in degree ) **was ingested using QGIS to improve AI modelling system performance.** 
 
 
 
