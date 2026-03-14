@@ -7,7 +7,7 @@
 
 
 ![full view durining centre](https://github.com/user-attachments/assets/51ced1c1-6352-4286-976f-2b7d32952c42)
-DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY 39.02 kWp PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT (33.84 kWp rooftop array featuring 144 × 235 W Yingli Solar modules mounted at a 10° pitch, and a 5.18 kWp facade-mounted array, consisting of 28 × 185 W Solarcentury modules installed vertically). The complex is services by an hybrid of the Grid and the photovoltaic power supply system. 
+DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 kWp** PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT (33.84 kWp rooftop array featuring 144 × 235 W Yingli Solar modules mounted at a 10° pitch, and a 5.18 kWp facade-mounted array, consisting of 28 × 185 W Solarcentury modules installed vertically). **The complex is services by an hybrid of the Grid and the photovoltaic power supply system.**
 
 # The BiG Question ? Can the Building Complex Energy Supply be deployed on 100% Renewable Energy Source.
 
@@ -27,7 +27,7 @@ DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY 39.02 kWp
  
  # An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model of Bi-LSTM and Informer with Autoregressive Features Optimization.
 
-HIGHLIGHT - To ensure an efficient energy grid, it is essential to address the uncertainty inherent in power systems. An efficient energy management system must be capable of prioritising energy distribution based on an applicable and effective real-time forecasting of generation output of the PV system. This study proposes a novel BiLSTM-Informer hybrid model that outperforms conventional machine learning and deep learning models in forecasting multi-step PV output. This work integrates real-time web inferencing using a Streamlit interface on Orender, validating the model’s robustness under live deployment. Accuracy ranged from 89% to 97.3% across various forecasting horizons, positioning the BiLSTM-Informer as a novel benchmark for real-time PV forecasting and intelligent grid management. 
+**HIGHLIGHT** - To ensure an efficient energy grid, it is essential to address the uncertainty inherent in power systems. An efficient energy management system must be capable of prioritising energy distribution based on an applicable and effective real-time forecasting of generation output of the PV system. This study proposes a novel BiLSTM-Informer hybrid model that outperforms conventional machine learning and deep learning models in forecasting multi-step PV output. This work integrates real-time web inferencing using a Streamlit interface on Orender, validating the model’s robustness under live deployment. Accuracy ranged from 89% to 97.3% across various forecasting horizons, positioning the BiLSTM-Informer as a novel benchmark for real-time PV forecasting and intelligent grid management. 
 
 
 
