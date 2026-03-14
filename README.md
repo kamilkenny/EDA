@@ -18,7 +18,7 @@ DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 k
 
 # Python Modelling of a Comprehensive Exploratory Data Analysis (EDA) providing critical insight and context into the Six years of historical hourly captured generation output of the system is available at this link:
 **https://github.com/kamilkenny/EDA/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20(EDA)%20OF%20DURNING%20CENTRE%2C%20EDGE%20HILL%20UNIVERSITY%20PHOTOVOLTAIC%20SYSTEM%20HISTORICAL%20GENERATION%20OUTPUT..ipynb**
-# meteor
+
 **High-frequency "Big Data" processing was done to uncover the trends and correlations essential for grid management. The analysis includes rolling demand trends, carbon intensity profiling, features engineering and a multivariate correlation study of generation sources and covariate secondary features.**
 
 # Critical Meteorological Data 
