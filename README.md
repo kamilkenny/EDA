@@ -7,7 +7,9 @@
 
 
 ![full view durining centre](https://github.com/user-attachments/assets/51ced1c1-6352-4286-976f-2b7d32952c42)
-DURNING CENTRE COMPLEX, EDGE HILL UNIVERSITY 39.02 kWp PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT (33.84 kWp rooftop array featuring 144 × 235 W Yingli Solar modules mounted at a 10° pitch, and a 5.18 kWp facade-mounted array, consisting of 28 × 185 W Solarcentury modules installed vertically).
+DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY 39.02 kWp PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT (33.84 kWp rooftop array featuring 144 × 235 W Yingli Solar modules mounted at a 10° pitch, and a 5.18 kWp facade-mounted array, consisting of 28 × 185 W Solarcentury modules installed vertically). The complex is services by an hybrid of the Grid and the photovoltaic power supply system. 
+
+# The BiG Question ? Can the Complex Power System be deployed on 100% rewable energy supply.
 
 
 # The Data Analytics and Developed Energy Forecasting System deployed at: https://kamil-deployment-of-edgehill-durning.onrender.com/
