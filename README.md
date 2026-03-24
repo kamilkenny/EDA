@@ -7,7 +7,8 @@
 
 
 ![full view durining centre](https://github.com/user-attachments/assets/51ced1c1-6352-4286-976f-2b7d32952c42)
-<img width="1309" height="640" alt="Fig 2" src="https://github.com/user-attachments/assets/a44a26c7-d101-4036-9e9a-2c69ba8959d9" />
+<img width="983" height="579" alt="Fig 2" src="https://github.com/user-attachments/assets/0c5577dc-1f3e-49ab-9d52-daf60dec750d" />
+
 
 DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 kWp** PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT (33.84 kWp rooftop array featuring 144 × 235 W Yingli Solar modules mounted at a 10° pitch, and a 5.18 kWp facade-mounted array, consisting of 28 × 185 W Solarcentury modules installed vertically). **The complex is services by an hybrid of the Grid and the photovoltaic power supply system.**
 
