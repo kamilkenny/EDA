@@ -7,7 +7,7 @@
 
 
 ![full view durining centre](https://github.com/user-attachments/assets/51ced1c1-6352-4286-976f-2b7d32952c42)
-<img width="983" height="579" alt="Fig 2" src="https://github.com/user-attachments/assets/0c5577dc-1f3e-49ab-9d52-daf60dec750d" />
+
 
 
 DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 kWp** PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT (33.84 kWp rooftop array featuring 144 × 235 W Yingli Solar modules mounted at a 10° pitch, and a 5.18 kWp facade-mounted array, consisting of 28 × 185 W Solarcentury modules installed vertically). **The complex is services by an hybrid of the Grid and the photovoltaic power supply system.**
@@ -17,7 +17,7 @@ DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 k
 
 # The Data Analytics and Developed Energy Forecasting System deployed at: https://kamil-deployment-of-edgehill-durning.onrender.com/
 
-
+<img width="983" height="579" alt="Fig 2" src="https://github.com/user-attachments/assets/0c5577dc-1f3e-49ab-9d52-daf60dec750d" />
 
 # Python Modelling of a Comprehensive Exploratory Data Analysis (EDA) providing critical insight and context into the Six years of historical hourly captured generation output of the system is available at this link:
 **https://github.com/kamilkenny/EDA/blob/main/EXPLORATORY%20DATA%20ANALYSIS%20(EDA)%20OF%20DURNING%20CENTRE%2C%20EDGE%20HILL%20UNIVERSITY%20PHOTOVOLTAIC%20SYSTEM%20HISTORICAL%20GENERATION%20OUTPUT..ipynb**
