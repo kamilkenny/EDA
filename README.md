@@ -7,6 +7,8 @@
 
 
 ![full view durining centre](https://github.com/user-attachments/assets/51ced1c1-6352-4286-976f-2b7d32952c42)
+<img width="1309" height="640" alt="Fig 2" src="https://github.com/user-attachments/assets/a44a26c7-d101-4036-9e9a-2c69ba8959d9" />
+
 DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 kWp** PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT (33.84 kWp rooftop array featuring 144 × 235 W Yingli Solar modules mounted at a 10° pitch, and a 5.18 kWp facade-mounted array, consisting of 28 × 185 W Solarcentury modules installed vertically). **The complex is services by an hybrid of the Grid and the photovoltaic power supply system.**
 
 # The BiG Question ? Can the Building Complex Energy Supply be deployed on 100% Renewable Energy Source.
@@ -84,6 +86,10 @@ DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 k
 
 
 # HYBRID MODEL ONLY ACTUAL VS PREDICTED TEST RESULTS COMPARISON 
+
+<img width="4090" height="5835" alt="Fig  5" src="https://github.com/user-attachments/assets/98c35a38-231e-4779-a396-e17a33a30754" />
+
+
 <img width="1250" height="700" alt="GRU -LSTM" src="https://github.com/user-attachments/assets/dc86fad3-c0a0-4e39-b202-d97272551c47" />
 
 <img width="1250" height="700" alt="CNN-LSTM" src="https://github.com/user-attachments/assets/d9b94824-921b-4be6-8e7d-988fd13766e4" />
@@ -109,6 +115,7 @@ DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 k
 # Deployed Model Accessible at:
 https://kamil-deployment-of-edgehill-durning.onrender.com/
                                    <img width="784" height="484" alt="Fig  11" src="https://github.com/user-attachments/assets/94cd330d-abb9-4582-9ba0-458bdbe40e8f" />
+<img width="2256" height="2264" alt="Fig 20" src="https://github.com/user-attachments/assets/6fa665d4-15fe-40f8-aec4-37a83e193eac" />
 
 <img width="1000" height="600" alt="hourly" src="https://github.com/user-attachments/assets/82d6ffba-59a0-479b-b7eb-fcbc56c07341" />
 <img width="1000" height="600" alt="daily" src="https://github.com/user-attachments/assets/7c5ba2f7-3671-4841-91e6-14f33f5a3850" />
