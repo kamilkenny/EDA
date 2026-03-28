@@ -2,8 +2,6 @@
 
 
 # HIGH FIDELITY BI-LSTM/INFORMER FRAMEWORK FOR HYBRID OF GRID & PHOTOVOLTAIC GENERATION FORECASTING TO ENHANCE ENERGY USE PLANNING
-
-
 <img width="800" height="900" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/a457406d-a819-4497-b75e-f1e977197f5c" />
 
 
