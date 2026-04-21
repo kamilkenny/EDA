@@ -127,7 +127,7 @@ https://kamil-deployment-of-edgehill-durning.onrender.com/
 ![Fig  16](https://github.com/user-attachments/assets/0c439676-dc1e-43c1-a410-aa9c15800298)
 
 
-## CONCLUSION 
+## EXECUTIVE SUMMARY
 
 **Crucially, the model was successfully deployed via a live Streamlit interface hosted on Orender, where it sustained inference accuracy between 89 % and 97.3 % while maintaining low latency (maximum 311 ms), thus proving its reliability for real-world applications. This real-time implementation supports supervisory control and data acquisition systems and energy management platforms, contributing directly to grid reliability and renewable integration. Additionally, performance diagnostics revealed that the PV system's peak output remained 35 % below its rated capacity, showcasing the model’s value in operational analytics and fault detection.**
 
