@@ -10,7 +10,7 @@
 
 DURNING CENTRE COMPLEX HBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 kWp** PHOTOVOLTAIC SYSTEM HISTORICAL GENERATION OUTPUT (33.84 kWp rooftop array featuring 144 × 235 W Yingli Solar modules mounted at a 10° pitch, and a 5.18 kWp facade-mounted array, consisting of 28 × 185 W Solarcentury modules installed vertically). **The complex is services by an hybrid of the Grid and the photovoltaic power supply system.**
 
-# The BiG Question ? Can the Building Complex Energy Supply be deployed on 100% Renewable Energy Source. As the Intitute works towards NetZero 
+# The BiG Question ? Can the Building Complex Energy Supply be deployed on 100% Renewable Energy Source. As the Institute works towards NetZero 
 
 
 # The Data Analytics and Developed Energy Forecasting System deployed at: https://kamil-deployment-of-edgehill-durning.onrender.com/
