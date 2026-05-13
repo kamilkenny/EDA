@@ -3,7 +3,8 @@
 
 # HYBRID ATTENTION-BASED DEEP LEARNING MODEL FOR MULTI-STEP POWER GENERATION FORECASTING WITH REAL-TIME WEB INFERENCING 
 
-![ss_page-0001](https://github.com/user-attachments/assets/d5d1d154-e23b-4bd7-aa12-aa8fa905c6fa)
+<img width="2301" height="2670" alt="570880340-d5d1d154-e23b-4bd7-aa12-aa8fa905c6fa" src="https://github.com/user-attachments/assets/4d58d286-56dd-40f1-8688-fd486ad956d6" />
+
 
 
 
