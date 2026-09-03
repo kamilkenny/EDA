@@ -35,6 +35,9 @@ DURNING CENTRE COMPLEX HYBRID POWER SUPPLY SYSTEM, EDGE HILL UNIVERSITY **39.02 
  
  # An Improved Photovoltaic Power Output Forecasting Using a Hybrid Model of Bi-LSTM and Informer with Autoregressive Features Optimization.
 
+<img width="1027" height="895" alt="durning centre" src="https://github.com/user-attachments/assets/a8c74773-e7cf-4f3d-877d-e17c37ed1fb7" />
+
+
 **HIGHLIGHT** - *To ensure an efficient energy grid, it is essential to address the uncertainty inherent in power systems. An efficient energy management system must be capable of prioritising energy distribution based on an applicable and effective real-time forecasting of generation output of the PV system. This study proposes a novel BiLSTM-Informer hybrid model that outperforms conventional machine learning and deep learning models in forecasting multi-step PV output. This work integrates real-time web inferencing using a Streamlit interface on Orender, validating the model’s robustness under live deployment. Accuracy ranged from 89% to 97.3% across various forecasting horizons, positioning the BiLSTM-Informer as a novel benchmark for real-time PV forecasting and intelligent grid management.* 
 
 
